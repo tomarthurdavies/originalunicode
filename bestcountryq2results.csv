@@ -1,4 +1,4 @@
-Rank,Column1.country,number of wines of this variety,mean points,standard deviation of mean points
+Rank,country,number of wines of this variety,mean points,standard deviation of mean points
 1,England,63,91.74603175,1.840128449
 2,India,8,90.25,1.832250763
 3,Austria,3030,90.130033,2.543174047
